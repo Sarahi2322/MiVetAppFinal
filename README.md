@@ -1,2 +1,0 @@
-# MiVetAppFinal
-Clínica veterinaria Huellitas
